@@ -8,13 +8,12 @@
       <b>
         Hello There
       <br>
-        I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
-      </b>
+        I'm Lxrdszn, a Systems Student, Addicted To Linux And Things Related To Hacking And Programming.
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ 1 ~
       </b>
     </samp>
   </p>
@@ -30,7 +29,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    You can reach me at [<a href="mailto:ivangaliciagarces@gmail.com">e-mail</a>]
   </samp>
 </p>
 
