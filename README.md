@@ -25,8 +25,9 @@
 <div align="center">
   <table>
       <tr>
-          <td><img src="https://github-readme-stats.vercel.app/api?username=rxyhn&show_icons=true&theme=dark&hide_border=true&width=500" alt="Lxrdszn's GitHub Stats"/></td>
-          <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&theme=dark&hide_border=true&layout=compact&width=400" alt="Most Used Languages"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=LXRDSZN&show_icons=true&theme=dark&hide_border=true" alt="LXRDSZN's GitHub Stats"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXRDSZN&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages"/>
+
       </tr>
   </table>
 </div>
