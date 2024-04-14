@@ -19,29 +19,35 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
-
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxyhn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&langs_count=6&theme=tokyonight"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="120" alt="Angular"></td>
-    <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
-    <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
-    <td><img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript"></td>
-    <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="120" alt="Parrot OS"></td>
-  </tr>
-</table>
-
-<div>
-  <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/leehxd_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@leehxd.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticiajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!-- Estadísticas de GitHub y Lenguajes más Usados -->
+<div align="center">
+  <table>
+      <tr>
+          <td><img src="https://github-readme-stats.vercel.app/api?username=rxyhn&show_icons=true&theme=dark&hide_border=true" width="400px" alt="Lxrdszn's GitHub Stats"/></td>
+          <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&theme=dark&hide_border=true&layout=compact" width="335px" alt="Most Used Languages"/></td>
+      </tr>
+  </table>
 </div>
+
+<!-- Iconos de Tecnologías -->
+<div align="center">
+  <img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="100" alt="Angular"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="100" alt="Parrot OS"/>
+</div>
+
+<!-- Badges de Redes Sociales -->
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC..."><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/..."><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/..."><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="mailto:..."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/..."><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<br>
 </div>
