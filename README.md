@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"/>
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"/>
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="120" alt="Arch Linux"/>
+  <img src="https://img.icons8.com/ultraviolet/2x/react--v2.gif" width="120" alt="React"/>
 </div>
 
 <br> <!-- Espacio entre secciones -->
