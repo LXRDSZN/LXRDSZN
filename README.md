@@ -27,8 +27,6 @@
       <tr>
      <td><img src="https://github-readme-stats.vercel.app/api?username=LXRDSZN&show_icons=true&theme=dark&hide_border=true" alt="LXRDSZN's GitHub Stats"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXRDSZN&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages"/>
-
-      </tr>
   </table>
 </div>
 
