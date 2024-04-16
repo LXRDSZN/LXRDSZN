@@ -10,7 +10,7 @@
       <br>
         I'm Lxrdszn, a Systems Student, Addicted To Linux And Things Related To Hacking And Programming.
       <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=+Desarrollador+Full+Stack+Y+Estudiante+De+Hacking.">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=++Desarrollador+Full+Stack+Y+Estudiante+De+Hacking.">
       <br>
       <b>
         ~ Hacking ~
