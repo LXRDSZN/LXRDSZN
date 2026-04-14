@@ -25,15 +25,53 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LXRDSZN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LXRDSZN&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LXRDSZN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LXRDSZN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LXRDSZN&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4&sideLabels=00F7F4&dates=FFFFFF">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=LXRDSZN&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4&sideLabels=00F7F4&dates=FFFFFF" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br>
 
 <!-- Lenguajes más usados -->
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact&langs_count=10&card_width=450">
+    <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact&langs_count=10&card_width=450" alt="Top Languages"/>
+  </picture>
+</div>
+
+<br>
+
+<!-- Estadísticas Alternativas -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LXRDSZN&theme=tokyonight" alt="Profile Summary" width="98%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LXRDSZN&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LXRDSZN&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LXRDSZN&theme=tokyonight&utcOffset=8" width="32%" alt="Productive Time"/>
+</div>
+
+<br>
+
+<!-- Badges de Habilidades -->
+<div align="center">
+  
+### 🏆 GitHub Achievements
+
+![](https://img.shields.io/badge/Total_Repos-⭐-00F7F4?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Total_Stars-⭐-00F7F4?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Contributions-📊-00F7F4?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Commits-🔥-00F7F4?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <br>
@@ -90,6 +128,17 @@
 
 <br>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LXRDSZN/LXRDSZN/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LXRDSZN/LXRDSZN/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LXRDSZN/LXRDSZN/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
 <!-- Social Media -->
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -119,6 +168,14 @@
 <!-- Trofeos de GitHub -->
 <div align="center">
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=LXRDSZN&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+<!-- Métricas Detalladas -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact" alt="WakaTime Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LXRDSZN&repo=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF" alt="Pinned Repo"/>
 </div>
 
 <br>
