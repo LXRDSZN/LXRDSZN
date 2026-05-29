@@ -172,13 +172,7 @@
 
 <br>
 
-<!-- Métricas Detalladas -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact" alt="WakaTime Stats"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LXRDSZN&repo=LXRDSZN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF" alt="Pinned Repo"/>
-</div>
 
-<br>
 
 <!-- Profile Views Counter -->
 <div align="center">
