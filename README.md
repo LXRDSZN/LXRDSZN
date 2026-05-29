@@ -165,17 +165,6 @@
 
 <br>
 
-<!-- Trofeos de GitHub -->
-<div align="center">
-  
-### 🏆 GitHub Trophies
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=LXRDSZN&theme=algolia&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
 
 
 <!-- Profile Views Counter -->
